@@ -31,9 +31,14 @@ The Compression Visualizer is an intuitive, interactive web application designed
 
 ## 🖥️ Screenshots
 
-![Screenshot 1](C:\Users\KEESHA LUTHRA\OneDrive\Desktop\sem6\data compression\compression\screenshots\Screenshot 2026-05-02 143652.png) <!-- TODO: Add actual screenshots of the application -->
-![Screenshot 2](C:\Users\KEESHA LUTHRA\OneDrive\Desktop\sem6\data compression\compression\screenshots\Screenshot 2026-05-02 143734.png) <!-- TODO: Add a screenshot showcasing a specific algorithm visualization -->
-![Screenshot 2](C:\Users\KEESHA LUTHRA\OneDrive\Desktop\sem6\data compression\compression\screenshots\Screenshot 2026-05-02 143829.png) <!-- TODO: Add a screenshot showcasing a specific algorithm visualization -->
+### Main Interface
+![Main UI](screenshots/main.png)
+
+### Huffman Coding
+![Huffman](screenshots/huffman.png)
+
+### Arithmetic Coding
+![Arithmetic](screenshots/arithmetic.png)
 
 ## 🛠️ Tech Stack
 
